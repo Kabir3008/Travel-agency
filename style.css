@@ -48,3 +48,12 @@ header nav ul li a{
 header nav ul li a:hover{
     color: gray;
 }
+
+header nav .bi-three-dots{
+    display:none;
+}
+header .content{
+ position:relative;
+ width: 100%;
+ height: 80%;   
+}
